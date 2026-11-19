@@ -1,0 +1,99 @@
+NUSANTARA DAO
+
+DAO-nya builder Indonesia · The DAO of Indonesian builders
+
+◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
+
+NDAO-2026-014
+
+Nusantara DAO
+
+Hibah Developer / Treasury · 50.000 USDC
+
+Bab 01 dari 7 · Chapter 01 of 7
+
+Pengumuman / Announcement
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1 / 7
+
+ALOKASI 50.000 USDC DARI TREASURY UNTUK DEVELOPER GRANTS Q4 2026 / ALLOCATE 50,000 USDC FROM THE TREASURY TO FUND Q4 2026 DEVELOPER GRANTS
+
+Halo, {{first_name}} — proposal baru dibuka di Nusantara DAO: Alokasi 50.000 USDC dari treasury untuk developer grants Q4 2026. Dana 50.000 USDC dari treasury untuk hibah developer. / Hello, {{first_name}} — a new proposal is open at Nusantara DAO: Allocate 50,000 USDC from the treasury to fund Q4 2026 developer grants. 50.000 USDC from the treasury for developer grants.
+
+Dana hibah untuk developer Indonesia yang membangun perkakas on-chain — dompet, dashboard, dan bot komunitas. Setiap grant Rp5–25 juta, diseleksi terbuka oleh anggota DAO, dan laporannya dipublikasikan tiap bulan. / A grants fund for Indonesian developers building on-chain tools — wallets, dashboards, and community bots. Each grant is Rp5–25 million, selected openly by DAO members, with monthly public reports.
+
+Diajukan oleh / Proposed by: Tim Grants Nusantara DAO · Nusantara DAO Grants Team
+
+PILIHAN SUARA / VOTING OPTIONS
+
+Satu anggota, satu suara — pilih salah satu. / One member, one vote — pick one.
+
+Setuju / For
+
+486 · 85,87%
+
+Tidak Setuju / Against
+
+57 · 10,07%
+
+Abstain / Abstain
+
+23 · 4,06%
+
+Batang di atas adalah hasil sementara per Sabtu, 21 November 2026 / The bars above are the tally as of Saturday, 21 November 2026.
+
+Jadwal voting
+
+Voting window
+
+Dibuka
+
+Opens
+
+Minggu, 15 November 2026, 00:00 UTC
+
+Ditutup
+
+Closes
+
+Minggu, 22 November 2026, 23:59 UTC
+
+Besok · 24 jam lagi · Tomorrow · 24 hours left
+
+Hitung mundur dihitung dari tanggal snapshot data (Sabtu, 21 November 2026) / The countdown is computed from the data snapshot date (Saturday, 21 November 2026).
+
+Vote Sekarang / Vote Now (https://example.com/dao/ndao-2026-014/vote)
+
+Satu proposal, satu suara / One proposal, one vote
+
+NDAO-2026-014 · Nusantara DAO · 50.000 USDC
+
+Setuju / For 486 (85,87%) · Tidak Setuju / Against 57 (10,07%) · Abstain 23 (4,06%) · Total 566 suara / votes
+
+One proposal, one vote — this proposal ID is identical on the proposal email, the reminder, the voting page, the dashboard, the results PDF, the certificates and the share card.
+
+◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
+
+Halaman voting / Voting page (https://example.com/dao/ndao-2026-014/vote) · Hasil / Results (https://example.com/dao/ndao-2026-014/results) · Discord DAO (https://example.com/dao/discord) · Berhenti berlangganan / Unsubscribe (https://example.com/unsubscribe)
+
+Dikirim dari / Sent from governance@nusantaradao.org — satu alamat pengirim untuk kedua email kit ini / one sender address for both emails in this kit. Anda menerima email ini karena Anda anggota Nusantara DAO. / You received this email because you are a member of Nusantara DAO.
+
+---
+
+SAMPLE SCENARIO — a fictional DAO, Nusantara DAO, proposal NDAO-2026-014. Not a real vote. The DAO, the proposal, the voters and the vote counts are illustrative; the vote arithmetic (tally, percentages, quorum, participation, timeline, what-if) is real and computed from the data file. One sender address serves both emails: governance@nusantaradao.org.
+
+Nusantara DAO · Nusantara DAO — governance snapshot 21 November 2026

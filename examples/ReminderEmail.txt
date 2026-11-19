@@ -1,0 +1,89 @@
+NUSANTARA DAO
+
+Pengingat terakhir / Last call
+
+◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
+
+NDAO-2026-014
+
+Nusantara DAO
+
+Hibah Developer / Treasury · 50.000 USDC
+
+Bab 03 dari 7 · Chapter 03 of 7
+
+Pengingat / Reminder
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+3 / 7
+
+TINGGAL 24 JAM / 24 HOURS LEFT
+
+Halo, {{first_name}} — voting proposal NDAO-2026-014 ditutup Minggu, 22 November 2026, 23:59 UTC. Kalau kamu belum vote, ini kesempatan terakhirmu. / Hello, {{first_name}} — voting on proposal NDAO-2026-014 closes Sunday, 22 November 2026, 23:59 UTC. If you have not voted yet, this is your last chance.
+
+Besok · 24 jam lagi · Tomorrow · 24 hours left
+
+HASIL SEMENTARA / TALLY SO FAR
+
+566 suara sudah masuk per Sabtu, 21 November 2026. / 566 votes cast as of Saturday, 21 November 2026.
+
+Setuju / For
+
+486 · 85,87%
+
+Tidak Setuju / Against
+
+57 · 10,07%
+
+Abstain / Abstain
+
+23 · 4,06%
+
+Kuorum / Quorum: 566 dari / of 124 suara — 4,6× kuorum
+
+TERCAPAI / MET
+
+Kuorum = 10% dari / of 1.240 anggota / members = 124 suara / votes · Partisipasi / Participation: 45,7% (566 dari / of 1.240)
+
+Suaramu masih dihitung
+
+Your vote still counts
+
+Kuorum 124 suara sudah tercapai, tapi hasil akhir ditentukan oleh semua suara yang masuk sebelum penutupan — termasuk suaramu. / Quorum of 124 votes is already met, but the final result is decided by every vote cast before the close — including yours.
+
+Vote Sekarang / Vote Now (https://example.com/dao/ndao-2026-014/vote)
+
+Setelah ditutup, hasil final terbit di halaman hasil / After the close, the final results are published on the results page: https://example.com/dao/ndao-2026-014/results
+
+Satu proposal, satu suara / One proposal, one vote
+
+NDAO-2026-014 · Nusantara DAO · 50.000 USDC
+
+Setuju / For 486 (85,87%) · Tidak Setuju / Against 57 (10,07%) · Abstain 23 (4,06%) · Total 566 suara / votes
+
+One proposal, one vote — this proposal ID is identical on the proposal email, the reminder, the voting page, the dashboard, the results PDF, the certificates and the share card.
+
+◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆
+
+Halaman voting / Voting page (https://example.com/dao/ndao-2026-014/vote) · Hasil / Results (https://example.com/dao/ndao-2026-014/results) · Discord DAO (https://example.com/dao/discord) · Berhenti berlangganan / Unsubscribe (https://example.com/unsubscribe)
+
+Dikirim dari / Sent from governance@nusantaradao.org — satu alamat pengirim untuk kedua email kit ini / one sender address for both emails in this kit. Anda menerima email ini karena Anda anggota Nusantara DAO. / You received this email because you are a member of Nusantara DAO.
+
+---
+
+SAMPLE SCENARIO — a fictional DAO, Nusantara DAO, proposal NDAO-2026-014. Not a real vote. The DAO, the proposal, the voters and the vote counts are illustrative; the vote arithmetic (tally, percentages, quorum, participation, timeline, what-if) is real and computed from the data file. One sender address serves both emails: governance@nusantaradao.org.
+
+Nusantara DAO · Nusantara DAO — governance snapshot 21 November 2026
